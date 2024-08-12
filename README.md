@@ -5,7 +5,7 @@
 ### Yarn
 
 ```sh
-yarn add --dev simpleddp-types@github:fantostisch/simpleddp-types#2.2.4-{latest tag}
+yarn add --dev simpleddp-types@github:caught-gmbh/simpleddp-types#2.2.4-{latest tag}
 ```
 
 Add the following to the top of your `.ts` file:
@@ -18,7 +18,7 @@ Add the following to the top of your `.ts` file:
 ### npm
 
 ```sh
-npm install --save-dev fantostisch/simpleddp-types#2.2.4-{latest tag}
+npm install --save-dev caught-gmbh/simpleddp-types#2.2.4-{latest tag}
 ```
 
 Update `tsconfig.json`:

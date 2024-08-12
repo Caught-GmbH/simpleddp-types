@@ -9,7 +9,7 @@ if [ -d "repo" ]; then
    git pull
   )
 else
- git clone https://github.com/fantostisch/simpleddp.git repo
+ git clone https://github.com/caught-gmbh/simpleddp.git repo
 fi
 
 cp tsconfig.json repo/
